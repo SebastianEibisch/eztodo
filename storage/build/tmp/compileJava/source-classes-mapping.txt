@@ -1,2 +1,0 @@
-de/ez/todo/storage/StorageManager.java
- de.ez.todo.storage.StorageManager

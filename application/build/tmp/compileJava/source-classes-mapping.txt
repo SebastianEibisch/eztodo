@@ -1,2 +1,0 @@
-de/ez/todo/application/Application.java
- de.ez.todo.application.Application

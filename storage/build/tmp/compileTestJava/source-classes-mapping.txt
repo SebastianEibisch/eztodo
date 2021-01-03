@@ -1,3 +1,0 @@
-com/example/multimodule/storage/StorageTestCase.java
- com.example.multimodule.storage.StorageTestCase
- com.example.multimodule.storage.StorageTestCase$TestConfiguration
